@@ -1,10 +1,9 @@
 # Awesome-Game-AI
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated, but probably incomplete, list of game AI resources.
+A curated, but incomplete, list of game AI resources.
 
 If you want to contribute to this list, please feel free to send a pull request. Also you can contact [daochen.zha@tamu.edu](daochen.zha@tamu.edu), or [khlai037@tamu.edu](khlai037@tamu.edu).
-
 
 ## What is Game AI?
 
@@ -14,7 +13,7 @@ Modern reinforcement learning techniques have boosted the development of Game AI
 
 ## What is Included?
 
-We provide some useful resources for getting started in Game AI, including open-source projects and research papers. The resources are categorized by games, and the papers are sorted by years. Currently, the list focuses on imperfect information game. Resources for perfect information games will be added shortly.
+We provide some useful resources for getting started in Game AI, including open-source projects and research papers. The resources are categorized by games, and the papers are sorted by years. Currently, the list is incomplete, with main focus on imperfect information games. We need your help to add more awesome resources, such as perfect information games, game competitions, and links for tutorials.
 
 ## Table of Contents
 
@@ -23,29 +22,46 @@ We provide some useful resources for getting started in Game AI, including open-
   * [Texas Hold'em](#texas-holdem-projects)
   * [Dou Dizhu](#dou-dizhu-projects)
   * [Starcraft](#starcraft-projects)
+  * [Gomoku](#gomoku-projects)
+  * [Chess](#chess-projects)
+  * [Chinese Chess](#chinese-chess-projects)
 * [Research Papers](#research-papers)
   * [Betting Games](#betting-games)
   * [Dou Dizhu](#dou-dizhu)
   * [Mahjong](#mahjong)
   * [Bridge](#bridge)
+  * [Go](#go)
+* [Related Lists](#related-lists)
 
 ## Open-Source Projects
 
 ### Unified Toolkits
   * RLCard: A Toolkit for Reinforcement Learning in Card Games [[paper](https://arxiv.org/abs/1910.04376)] [[code](https://github.com/datamllab/rlcard)].
   * OpenSpiel: A Framework for Reinforcement Learning in Games [[paper](https://arxiv.org/abs/1908.09453)] [[code](https://github.com/deepmind/open_spiel)].
+  * Alpha Zero General [[code](https://github.com/suragnair/alpha-zero-general)].
+
 ### Texas Hold'em Projects
   * DeepStack-Leduc [[paper](https://arxiv.org/abs/1701.01724)] [[code](https://github.com/lifrordi/DeepStack-Leduc)].
   * DeepHoldem [[code](https://github.com/happypepper/DeepHoldem)].
   * OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning [[code](https://github.com/wenkesj/holdem)].
+  * PyPokerEngine [[code](https://github.com/ishikota/PyPokerEngine)].
+  * Deep mind pokerbot for pokerstars and partypoker [[code](https://github.com/dickreuter/Poker)].
 
-	
+  
 ### Dou Dizhu Projects
   * Doudizhu AI using reinforcement learning [[code](https://github.com/skyduy/doudizhu-rl)].
 
 ### Starcraft Projects
 * StarCraft II Learning Environment [[paper](https://arxiv.org/abs/1708.04782)] [[code](https://github.com/deepmind/pysc2)].
 
+### Gomoku Projects
+* AlphaZero-Gomoku [[code](https://github.com/junxiaosong/AlphaZero_Gomoku)].
+
+### Chess Projects
+* Chess-Alpha-Zero [[code](https://github.com/Zeta36/chess-alpha-zero)].
+
+### Chinese Chess Projects
+* CCZero (中国象棋Zero) [[code](https://github.com/NeymarL/ChineseChess-AlphaZero)].
 
 ## Research Papers
 ### Betting Games
@@ -80,3 +96,11 @@ Betting games are one of the most popular form of Poker games. The list includes
 [Bridge](https://en.wikipedia.org/wiki/Contract_bridge) is a trick-taking card game played with 52 standard deck.
 
 * Boosting a Bridge Artificial Intelligence, ICTAI 2017 [[paper](https://ieeexplore.ieee.org/document/8372096)].
+
+### Go
+* Mastering the game of Go with deep neural networks and tree search [[paper](https://www.nature.com/articles/nature16961)].
+* Mastering the game of Go without human knowledge [[paper](https://www.nature.com/articles/nature24270)].
+
+## Related Lists
+* [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
+* [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl)
