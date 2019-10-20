@@ -35,9 +35,14 @@ We provide some useful resources for getting started in Game AI, including open-
   * RLCard: A Toolkit for Reinforcement Learning in Card Games [[paper](https://arxiv.org/abs/1910.04376)] [[code](https://github.com/datamllab/rlcard)].
   * OpenSpiel: A Framework for Reinforcement Learning in Games [[paper](https://arxiv.org/abs/1908.09453)] [[code](https://github.com/deepmind/open_spiel)].
 ### Texas Hold'em Projects
-(TBD)
+  * DeepStack-Leduc [[paper](https://arxiv.org/abs/1701.01724)] [[code](https://github.com/lifrordi/DeepStack-Leduc)].
+  * DeepHoldem [[code](https://github.com/happypepper/DeepHoldem)].
+  * OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning [[code](https://github.com/wenkesj/holdem)].
+
+	
 ### Dou Dizhu Projects
-(TBD)
+  * doudizhu AI using reinforcement learning [[code](https://github.com/skyduy/doudizhu-rl)].
+
 ### Starcraft Projects
 * StarCraft II Learning Environment [[paper](https://arxiv.org/abs/1708.04782)] [[code](https://github.com/deepmind/pysc2)].
 
