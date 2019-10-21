@@ -50,6 +50,9 @@ We provide some useful resources for getting started in Game AI, including open-
   
 ### Dou Dizhu Projects
   * Doudizhu AI using reinforcement learning [[code](https://github.com/skyduy/doudizhu-rl)].
+  * Dou Di Zhu with Combinational Q-Learning [[paper](https://github.com/qq456cvb/doudizhu-C)] [[code](https://github.com/qq456cvb/doudizhu-C)].
+  * DouDiZhu [[code](https://github.com/songbaoming/DouDiZhu)].
+  * 斗地主AI设计与实现 [[code](https://github.com/ZhouWeikuan/DouDiZhu)].
 
 ### Starcraft Projects
 * StarCraft II Learning Environment [[paper](https://arxiv.org/abs/1708.04782)] [[code](https://github.com/deepmind/pysc2)].
