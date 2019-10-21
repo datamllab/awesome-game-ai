@@ -75,6 +75,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 [Mahjong](https://en.wikipedia.org/wiki/Mahjong) ([麻将](https://baike.baidu.com/item/%E9%BA%BB%E5%B0%86/215?fr=aladdin)) is a tile-based game that was developed in China.
 
 * Method for Constructing Artificial Intelligence Player with Abstraction to Markov Decision Processes in Multiplayer Game of Mahjong, arXiv 2019 [[paper](https://arxiv.org/abs/1904.07491)].
+* Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models, IEEE CIG 2017m [[paper](https://ieeexplore.ieee.org/document/7317929)].
 
 ### Bridge
 [Bridge](https://en.wikipedia.org/wiki/Contract_bridge) is a trick-taking card game played with 52 standard deck.
