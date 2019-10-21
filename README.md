@@ -73,7 +73,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 * Neural Replicator Dynamics, arXiv 2019 [[paper](https://arxiv.org/abs/1906.00190)].
 * Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent, IJCAI 2019 [[paper](https://www.ijcai.org/proceedings/2019/0066.pdf)].
 * Solving Imperfect-Information Games via Discounted Regret Minimization, AAAI 2019 [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4007)].
-* Deep Counterfactual Regret Minimization, ICML, 2019[[paper](http://proceedings.mlr.press/v97/brown19b/brown19b.pdf)].
+* Deep Counterfactual Regret Minimization, ICML, 2019 [[paper](http://proceedings.mlr.press/v97/brown19b/brown19b.pdf)].
 * Actor-Critic Policy Optimization in Partially Observable Multiagent Environments, NeurIPS 2018 [[paper](https://papers.nips.cc/paper/7602-actor-critic-policy-optimization-in-partially-observable-multiagent-environments.pdf)].
 * Safe and Nested Subgame Solving for Imperfect-Information Games, NeurIPS, 2018 [[paper](http://papers.nips.cc/paper/6671-safe-and-nested-subgame-solving-for-imperfect-information-games.pdf)].
 * DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker, Science 2017 [[paper](https://arxiv.org/pdf/1701.01724.pdf)].
@@ -94,7 +94,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 [Mahjong](https://en.wikipedia.org/wiki/Mahjong) ([麻将](https://baike.baidu.com/item/%E9%BA%BB%E5%B0%86/215?fr=aladdin)) is a tile-based game that was developed in China.
 
 * Method for Constructing Artificial Intelligence Player with Abstraction to Markov Decision Processes in Multiplayer Game of Mahjong, arXiv 2019 [[paper](https://arxiv.org/abs/1904.07491)].
-* Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models, IEEE CIG 2017m [[paper](https://ieeexplore.ieee.org/document/7317929)].
+* Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models, IEEE CIG 2017 [[paper](https://ieeexplore.ieee.org/document/7317929)].
 
 ### Bridge
 [Bridge](https://en.wikipedia.org/wiki/Contract_bridge) is a trick-taking card game played with 52 standard deck.
@@ -102,8 +102,8 @@ Betting games are one of the most popular form of Poker games. The list includes
 * Boosting a Bridge Artificial Intelligence, ICTAI 2017 [[paper](https://ieeexplore.ieee.org/document/8372096)].
 
 ### Go
-* Mastering the game of Go with deep neural networks and tree search [[paper](https://www.nature.com/articles/nature16961)].
-* Mastering the game of Go without human knowledge [[paper](https://www.nature.com/articles/nature24270)].
+* Mastering the game of Go with deep neural networks and tree search, Nature 2016 [[paper](https://www.nature.com/articles/nature16961)].
+* Mastering the game of Go without human knowledge, Nature 2017 [[paper](https://www.nature.com/articles/nature24270)].
 
 ## Related Lists
 * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
