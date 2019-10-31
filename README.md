@@ -3,7 +3,7 @@
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
-If you want to contribute to this list, please feel free to send a pull request. Also you can contact [daochen.zha@tamu.edu](daochen.zha@tamu.edu), or [khlai037@tamu.edu](khlai037@tamu.edu).
+If you want to contribute to this list, please feel free to send a pull request. Also you can contact [daochen.zha@tamu.edu](daochen.zha@tamu.edu), or [khlai@tamu.edu](khlai@tamu.edu).
 
 ## What is Game AI?
 
