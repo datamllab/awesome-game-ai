@@ -10,15 +10,15 @@ If you want to contribute to this list, please feel free to send a pull request.
 Game AI is focusing on predicting which actions should be taken, based on the current conditions. Generally, most games incorporate some sort of AI, which are usually characters or players in the game. For some popular games such as [Starcraft](https://en.wikipedia.org/wiki/StarCraft) and [Dota 2](https://en.wikipedia.org/wiki/Dota_2), developers have spent years to design and refine the AI to enhance the experience.
 
 ## Single-Agent vs. Multi-Agent
-Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai), [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird).
+Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai), [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), and [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird).
 
-Multi-agent environments pose more challenges since each player has to reason about other players' moves. Modern reinforcement learning techniques have boosted multi-agent game AI. In 2015, [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), for the first time beat a human professional Go player on a full-sized 19×19 board. In 2017, [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) taught itself from scratch and learned to master the games of chess, shogi, and Go. In more recent years, researchers have made efforts to poker games, such as [Libratus](https://science.sciencemag.org/content/359/6374/418) and [DeepStack](https://science.sciencemag.org/content/356/6337/508), achieving expert-level performance in Texas Hold'em. Now researchers keep progressing and achieve human-level AI on [Dota 2](https://openai.com/five/) and [Starcraft 2](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii) with deep reinforcement learning.
+Multi-agent environments are more challenging since each player has to reason about the other players' moves. Modern reinforcement learning techniques have boosted multi-agent game AI. In 2015, [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), for the first time beat a human professional Go player on a full-sized 19×19 board. In 2017, [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) taught itself from scratch and learned to master the games of chess, shogi, and Go. In more recent years, researchers have made efforts to poker games, such as [Libratus](https://science.sciencemag.org/content/359/6374/418) and [DeepStack](https://science.sciencemag.org/content/356/6337/508), achieving expert-level performance in Texas Hold'em. Now researchers keep progressing and achieve human-level AI on [Dota 2](https://openai.com/five/) and [Starcraft 2](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii) with deep reinforcement learning.
 
 ## Perfect Information vs. Imperfect Information
-Perfect information means that each player has access to the same information of the game, e.g., Go, Chess, Gomoku. Imperfect information refers to the situation where players can not observe the full state of the game. For example, in card games, a player can not observe the hands of the other players. Imperfect information games are usually considered more challenging since it brings more possibilities.
+Perfect information means that each player has access to the same information of the game, e.g., Go, Chess, and Gomoku. Imperfect information refers to the situation where players can not observe the full state of the game. For example, in card games, a player can not observe the hands of the other players. Imperfect information games are usually considered more challenging with more possibilities.
 
 ## What is included?
-This repository gathers some awesome resources for Game AI on multi-agent learning for both perfect and imperfect information games, including but not limited to open-source projects, review papers, research papers, conferences, and competitions. The resources are categorized by games, and the papers are sorted by years.
+This repository gathers some awesome resources for Game AI on multi-agent learning for both perfect and imperfect information games, including but not limited to, open-source projects, review papers, research papers, conferences, and competitions. The resources are categorized by games, and the papers are sorted by years.
 
 
 ## Table of Contents
@@ -121,10 +121,10 @@ Betting games are one of the most popular form of Poker games. The list includes
 * Boosting a Bridge Artificial Intelligence, ICTAI 2017 [[paper](https://ieeexplore.ieee.org/document/8372096)].
 
 ### Go
-* Mastering the game of Go with deep neural networks and tree search, Nature 2016 [[paper](https://www.nature.com/articles/nature16961)].
 * Mastering the game of Go without human knowledge, Nature 2017 [[paper](https://www.nature.com/articles/nature24270)].
+* Mastering the game of Go with deep neural networks and tree search, Nature 2016 [[paper](https://www.nature.com/articles/nature16961)].
 * Temporal-difference search in computer Go, Machine Learning, 2012 [[paper](https://link.springer.com/article/10.1007/s10994-012-5280-0)].
-* Monte-Carlo tree search and rapid action value estimation in computer Go, Artificial Intelligence [[paper](https://www.ics.uci.edu/~dechter/courses/ics-295/winter-2018/papers/mcts-gelly-silver.pdf)].
+* Monte-Carlo tree search and rapid action value estimation in computer Go, Artificial Intelligence, 2011 [[paper](https://www.ics.uci.edu/~dechter/courses/ics-295/winter-2018/papers/mcts-gelly-silver.pdf)].
 * Computing “elo ratings” of move patterns in the game of go, ICGA Journal, 2007 [[paper](https://hal.inria.fr/file/index/docid/149859/filename/MMGoPatterns.pdf)].
 
 ### Starcraft
