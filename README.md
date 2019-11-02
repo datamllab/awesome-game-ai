@@ -3,7 +3,7 @@
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
-If you want to contribute to this list, please feel free to send a pull request. Also you can contact [daochen.zha@tamu.edu](daochen.zha@tamu.edu), or [khlai@tamu.edu](khlai@tamu.edu).
+If you want to contribute to this list, please feel free to send a pull request. Also you can contact [daochen.zha@tamu.edu](mailto:daochen.zha@tamu.edu), or [khlai@tamu.edu](mailto:khlai@tamu.edu).
 
 ## What is Game AI?
 
@@ -48,6 +48,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Unified Toolkits
   * RLCard: A Toolkit for Reinforcement Learning in Card Games [[paper](https://arxiv.org/abs/1910.04376)] [[code](https://github.com/datamllab/rlcard)].
   * OpenSpiel: A Framework for Reinforcement Learning in Games [[paper](https://arxiv.org/abs/1908.09453)] [[code](https://github.com/deepmind/open_spiel)].
+  * Unity ML-Agents Toolkit [[paper](https://arxiv.org/abs/1809.02627)] [[code](https://github.com/Unity-Technologies/ml-agents)].
   * Alpha Zero General [[code](https://github.com/suragnair/alpha-zero-general)].
 
 ### Texas Hold'em Projects
@@ -100,6 +101,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 * Safe and Nested Subgame Solving for Imperfect-Information Games, NeurIPS, 2018 [[paper](http://papers.nips.cc/paper/6671-safe-and-nested-subgame-solving-for-imperfect-information-games.pdf)].
 * DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker, Science 2017 [[paper](https://arxiv.org/pdf/1701.01724.pdf)].
 * A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning, NeurIPS 2017 [[paper](https://pdfs.semanticscholar.org/fbe9/950202a7fcc756369a38cb1ef4b9b994ae88.pdf)].
+* Poker-CNN: A pattern learning strategy for making draws and bets in poker games using convolutional networks [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12172/11606)].
 * Deep Reinforcement Learning from Self-Play in Imperfect-Information Games, arXiv 2016 [[paper](https://arxiv.org/abs/1603.01121)].
 * Fictitious Self-Play in Extensive-Form Games, ICML 2015 [[paper](http://proceedings.mlr.press/v37/heinrich15.pdf)].
 * Solving Heads-up Limit Texas Hold’em, IJCAI 2015 [[paper](https://poker.cs.ualberta.ca/publications/2015-ijcai-cfrplus.pdf)].
