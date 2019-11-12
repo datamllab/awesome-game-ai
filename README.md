@@ -28,6 +28,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
   * [Texas Hold'em](#texas-holdem-projects)
   * [Dou Dizhu](#dou-dizhu-projects)
   * [Starcraft](#starcraft-projects)
+  * [Go](#go-projects)
   * [Gomoku](#gomoku-projects)
   * [Chess](#chess-projects)
   * [Chinese Chess](#chinese-chess-projects)
@@ -70,6 +71,9 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 * Gym StarCraft [[code](https://github.com/alibaba/gym-starcraft)].
 * StartCraft II Reinforcement Learning Examples [[code](https://github.com/chris-chris/pysc2-examples)].
 * A Guide to DeepMind's StarCraft AI Environment [[code](https://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment)].
+
+### Go Projects
+* ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation [[code](https://github.com/pytorch/ELF)] [[paper](https://arxiv.org/pdf/1902.04522.pdf)].
 
 ### Gomoku Projects
 * AlphaZero-Gomoku [[code](https://github.com/junxiaosong/AlphaZero_Gomoku)].
