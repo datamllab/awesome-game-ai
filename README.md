@@ -119,7 +119,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ### Mahjong
 
-* Suphx: Mastering Mahjong with Deep Reinforcement Learning, arXiv 2020 [[paper](https://arxiv.org/abs/2003.13590].
+* Suphx: Mastering Mahjong with Deep Reinforcement Learning, arXiv 2020 [[paper](https://arxiv.org/abs/2003.13590)].
 * Method for Constructing Artificial Intelligence Player with Abstraction to Markov Decision Processes in Multiplayer Game of Mahjong, arXiv 2019 [[paper](https://arxiv.org/abs/1904.07491)].
 * Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models, IEEE CIG 2017 [[paper](https://ieeexplore.ieee.org/document/7317929)].
 
