@@ -88,6 +88,9 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Chinese Chess Projects
 * CCZero (中国象棋Zero) [[code](https://github.com/NeymarL/ChineseChess-AlphaZero)].
 
+### Mahjong Projects
+* pymahjong (Japanese Riichi Mahjong) [[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong)]
+
 ## Review and General Papers
 * Deep reinforcement learning from self-play in imperfect-information games, arXiv 2016 [[paper](https://arxiv.org/pdf/1603.01121.pdf)].
 * Multi-agent Reinforcement Learning: An Overview, 2010 [[paper](https://link.springer.com/chapter/10.1007/978-3-642-14435-6_7)].
@@ -121,6 +124,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ### Mahjong
 
+* Variational oracle guiding for reinforcement learning, ICLR 2022 [[paper](https://openreview.net/forum?id=pjqqxepwoMy)]
 * Suphx: Mastering Mahjong with Deep Reinforcement Learning, arXiv 2020 [[paper](https://arxiv.org/abs/2003.13590)].
 * Method for Constructing Artificial Intelligence Player with Abstraction to Markov Decision Processes in Multiplayer Game of Mahjong, arXiv 2019 [[paper](https://arxiv.org/abs/1904.07491)].
 * Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models, IEEE CIG 2017 [[paper](https://ieeexplore.ieee.org/document/7317929)].
