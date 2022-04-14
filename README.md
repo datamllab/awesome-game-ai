@@ -72,6 +72,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 * Gym StarCraft [[code](https://github.com/alibaba/gym-starcraft)].
 * StartCraft II Reinforcement Learning Examples [[code](https://github.com/chris-chris/pysc2-examples)].
 * A Guide to DeepMind's StarCraft AI Environment [[code](https://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment)].
+* A reimplementation of Alphastar based on DI-engine with trained models [[code](https://github.com/opendilab/DI-star)].
 
 ### Go Projects
 * ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation [[code](https://github.com/pytorch/ELF)] [[paper](https://arxiv.org/pdf/1902.04522.pdf)].
