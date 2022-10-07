@@ -61,6 +61,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
   
 ### Dou Dizhu Projects
+  * PerfectDou: Dominating DouDizhu with Perfect Information Distillation [[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou)].
   * DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning [[code](https://github.com/kwai/DouZero)].
   * Doudizhu AI using reinforcement learning [[code](https://github.com/skyduy/doudizhu-rl)].
   * Dou Di Zhu with Combinational Q-Learning [[paper](https://github.com/qq456cvb/doudizhu-C)] [[code](https://github.com/qq456cvb/doudizhu-C)].
@@ -118,6 +119,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ### Dou Dizhu
 
+* PerfectDou: Dominating DouDizhu with Perfect Information Distillation, NeurIPS 2022 [[paper](https://arxiv.org/abs/2203.16406)] [[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou)].
 * DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning, ICML 2021 [[paper](https://arxiv.org/abs/2106.06135)] [[code](https://github.com/kwai/DouZero)].
 * DeltaDou: Expert-level Doudizhu AI through Self-play, IJCAI 2019 [[paper](https://www.ijcai.org/proceedings/2019/0176.pdf)].
 * Combinational Q-Learning for Dou Di Zhu, arXiv 2019 [[paper](https://arxiv.org/abs/1901.08925)] [[code](https://github.com/qq456cvb/doudizhu-C)].
