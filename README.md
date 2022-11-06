@@ -91,7 +91,8 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 * CCZero (中国象棋Zero) [[code](https://github.com/NeymarL/ChineseChess-AlphaZero)].
 
 ### Mahjong Projects
-* pymahjong (Japanese Riichi Mahjong) [[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong)]
+* pymahjong (Japanese Riichi Mahjong) [[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong)].
+* Mortal [[code](https://github.com/Equim-chan/Mortal)].
 
 ## Review and General Papers
 * Deep reinforcement learning from self-play in imperfect-information games, arXiv 2016 [[paper](https://arxiv.org/pdf/1603.01121.pdf)].
