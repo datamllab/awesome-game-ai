@@ -5,6 +5,8 @@ A curated, but incomplete, list of game AI resources on **multi-agent** learning
 
 If you want to contribute to this list, please feel free to send a pull request. Also you can contact [daochen.zha@rice.edu](mailto:daochen.zha@rice.edu), or [khlai@rice.edu](mailto:khlai@rice.edu).
 
+:loudspeaker: Promotion: Please check out our [data-centric AI survey](https://arxiv.org/abs/2212.11854) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
+
 ## What is Game AI?
 
 Game AI is focusing on predicting which actions should be taken, based on the current conditions. Generally, most games incorporate some sort of AI, which are usually characters or players in the game. For some popular games such as [Starcraft](https://en.wikipedia.org/wiki/StarCraft) and [Dota 2](https://en.wikipedia.org/wiki/Dota_2), developers have spent years to design and refine the AI to enhance the experience.
