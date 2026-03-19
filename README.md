@@ -55,6 +55,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
   * OpenSpiel: A Framework for Reinforcement Learning in Games [[paper](https://arxiv.org/abs/1908.09453)] [[code](https://github.com/deepmind/open_spiel)].
   * Unity ML-Agents Toolkit [[paper](https://arxiv.org/abs/1809.02627)] [[code](https://github.com/Unity-Technologies/ml-agents)].
   * Alpha Zero General [[code](https://github.com/suragnair/alpha-zero-general)].
+  * spielviz: Visualization Library for OpenSpiel Game Trees [[code](https://github.com/kvr06-ai/spielviz)].
 
 ### Texas Hold'em Projects
   * DeepStack-Leduc [[paper](https://arxiv.org/abs/1701.01724)] [[code](https://github.com/lifrordi/DeepStack-Leduc)].
