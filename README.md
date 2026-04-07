@@ -9,6 +9,7 @@ If you want to contribute to this list, please feel free to send a pull request.
 
 :loudspeaker: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for game AI workflow orchestration, automated game agent pipeline management, and multi-agent coordination. MIT licensed.
 ## What is Game AI?
 
 Game AI is focusing on predicting which actions should be taken, based on the current conditions. Generally, most games incorporate some sort of AI, which are usually characters or players in the game. For some popular games such as [Starcraft](https://en.wikipedia.org/wiki/StarCraft) and [Dota 2](https://en.wikipedia.org/wiki/Dota_2), developers have spent years to design and refine the AI to enhance the experience.
