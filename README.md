@@ -170,3 +170,87 @@ Betting games are one of the most popular form of Poker games. The list includes
 ## Related Lists
 * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
 * [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl)
+
+## FAQ
+
+### What is Awesome Game AI?
+Awesome Game AI is a curated list of game AI resources on **multi-agent learning**, including open-source projects, research papers, conferences, and competitions. It focuses on multi-agent reinforcement learning for both perfect and imperfect information games.
+
+### What's included?
+| Category | Examples |
+|----------|----------|
+| Open-Source Projects | Unified Toolkits, Texas Hold'em, Dou Dizhu, Starcraft, Go, Gomoku, Chess |
+| Research Papers | Betting Games, Mahjong, Bridge, Go, Starcraft |
+| Conferences | Workshops on Game AI and Multi-Agent Learning |
+| Competitions | Game AI Competitions and Challenges |
+
+### What is Game AI?
+Game AI focuses on predicting which actions should be taken based on current conditions. Most games incorporate AI for characters or players. For games like Starcraft and Dota 2, developers spend years designing and refining AI to enhance gameplay.
+
+### Single-Agent vs. Multi-Agent
+| Type | Description | Examples |
+|------|-------------|----------|
+| Single-Agent | Single player environment | Atari Games, Super Mario, Minecraft, Flappy Bird |
+| Multi-Agent | Multiple players reasoning about each other's moves | AlphaGo, AlphaZero, Libratus, DouZero, Dota 2, Starcraft 2 |
+
+### Perfect Information vs. Imperfect Information
+| Type | Description | Examples |
+|------|-------------|----------|
+| Perfect Information | All players see the same game state | Go, Chess, Gomoku |
+| Imperfect Information | Players can't observe full game state | Poker, Card Games |
+
+### How to contribute?
+Send a pull request or contact:
+- [daochen.zha@rice.edu](mailto:daochen.zha@rice.edu)
+- [khlai@rice.edu](mailto:khlai@rice.edu)
+
+### Related Projects
+- [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm)
+- [Data-Centric AI Survey](https://arxiv.org/abs/2303.10158)
+- [Awesome Data-Centric AI](https://github.com/daochenzha/data-centric-AI)
+
+### Help Resources
+- [GitHub Issues](https://github.com/datamllab/awesome-game-ai/issues)
+- [Contact Authors](mailto:daochen.zha@rice.edu)
+
+## FAQ
+
+### What is Awesome Game AI?
+Awesome Game AI is a curated list of game AI resources on **multi-agent learning**, including open-source projects, research papers, conferences, and competitions. It focuses on multi-agent reinforcement learning for both perfect and imperfect information games.
+
+### What's included?
+| Category | Examples |
+|----------|----------|
+| Open-Source Projects | Unified Toolkits, Texas Hold'em, Dou Dizhu, Starcraft, Go, Gomoku, Chess |
+| Research Papers | Betting Games, Mahjong, Bridge, Go, Starcraft |
+| Conferences | Workshops on Game AI and Multi-Agent Learning |
+| Competitions | Game AI Competitions and Challenges |
+
+### What is Game AI?
+Game AI focuses on predicting which actions should be taken based on current conditions. Most games incorporate AI for characters or players. For games like Starcraft and Dota 2, developers spend years designing and refining AI to enhance gameplay.
+
+### Single-Agent vs. Multi-Agent
+| Type | Description | Examples |
+|------|-------------|----------|
+| Single-Agent | Single player environment | Atari Games, Super Mario, Minecraft, Flappy Bird |
+| Multi-Agent | Multiple players reasoning about each other's moves | AlphaGo, AlphaZero, Libratus, DouZero, Dota 2, Starcraft 2 |
+
+### Perfect Information vs. Imperfect Information
+| Type | Description | Examples |
+|------|-------------|----------|
+| Perfect Information | All players see the same game state | Go, Chess, Gomoku |
+| Imperfect Information | Players can't observe full game state | Poker, Card Games |
+
+### How to contribute?
+Send a pull request or contact:
+- [daochen.zha@rice.edu](mailto:daochen.zha@rice.edu)
+- [khlai@rice.edu](mailto:khlai@rice.edu)
+
+### Related Projects
+- [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm)
+- [Data-Centric AI Survey](https://arxiv.org/abs/2303.10158)
+- [Awesome Data-Centric AI](https://github.com/daochenzha/data-centric-AI)
+
+### Help Resources
+- [GitHub Issues](https://github.com/datamllab/awesome-game-ai/issues)
+- [Contact Authors](mailto:daochen.zha@rice.edu)
