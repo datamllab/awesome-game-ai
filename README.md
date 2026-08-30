@@ -31,6 +31,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
   * [Unified Toolkits](#unified-toolkits)
   * [Texas Hold'em](#texas-holdem-projects)
   * [Dou Dizhu](#dou-dizhu-projects)
+  * [GuanDan](#guandan-projects)
   * [Starcraft](#starcraft-projects)
   * [Go](#go-projects)
   * [Gomoku](#gomoku-projects)
@@ -71,6 +72,18 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
   * Dou Di Zhu with Combinational Q-Learning [[paper](https://github.com/qq456cvb/doudizhu-C)] [[code](https://github.com/qq456cvb/doudizhu-C)].
   * DouDiZhu [[code](https://github.com/songbaoming/DouDiZhu)].
   * 斗地主AI设计与实现 [[code](https://github.com/ZhouWeikuan/DouDiZhu)].
+
+### GuanDan Projects
+  * DanKS: A three-generation GuanDan AI with structured retrieval, learned candidate selection, and a PPO-trained memory-aware policy [[code](https://github.com/Calix-L/DanKS)] [[demo](https://calixlin.com/CardKS/)].
+  * DanZero+: A distributed Deep Monte Carlo and policy-based reinforcement learning system for GuanDan [[paper](https://arxiv.org/abs/2312.02561)] [[code](https://github.com/submit-paper/Danzero_plus)].
+  * DanZero: A distributed self-play system that applies Deep Monte Carlo learning to GuanDan [[paper](https://arxiv.org/abs/2210.17087)] [[code](https://github.com/AltmanD/guandan_mcc)].
+  * OpenGuanDan: A large-scale benchmark and simulator for evaluating learning-based and rule-based GuanDan agents [[paper](https://arxiv.org/abs/2602.00676)] [[code](https://github.com/GameAI-NJUPT/OpenGuanDan)].
+  * DanLM: A self-play reinforcement learning agent that uses causal sequence modeling of raw game history [[code](https://github.com/dashidhy/DanLM)].
+  * GuanDan Reinforcement Learning: An Actor-Critic GuanDan system with training and inference support [[code](https://github.com/746505972/guandan)].
+  * NUAA GuanDan: A student GuanDan AI system combining imitation learning and deep reinforcement learning [[code](https://github.com/LSTM-Kirigaya/NUAA-guandan)].
+  * RL GuanDan: A Deep Monte Carlo agent released by the runner-up of the second GuanDan AI competition [[code](https://github.com/samuelgzx/RL_GuanDan)].
+  * Guandan AI Starter Kit: A testable Python rules engine and heuristic-agent baseline for imperfect-information research [[code](https://github.com/welkin03/guandan-ai)].
+  * Rule-Based GuanDan AI: A heuristic GuanDan agent with random, minimum-card, and human client baselines [[code](https://github.com/QinlinChen/guandan-ai)].
 
 ### Starcraft Projects
 * StarCraft II Learning Environment [[paper](https://arxiv.org/abs/1708.04782)] [[code](https://github.com/deepmind/pysc2)].
