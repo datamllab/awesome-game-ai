@@ -97,6 +97,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Mahjong Projects
 * pymahjong (Japanese Riichi Mahjong) [[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong)].
 * Mortal [[code](https://github.com/Equim-chan/Mortal)].
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 
 ## Review and General Papers
 * Deep reinforcement learning from self-play in imperfect-information games, arXiv 2016 [[paper](https://arxiv.org/pdf/1603.01121.pdf)].
