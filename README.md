@@ -50,6 +50,8 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ## Open-Source Projects
 
+* [neo4j-world](https://github.com/jajmangold/neo4j-world) - Neo4j graph database for narrative world simulation: characters with drama-state relationships (trust, resentment, attraction, tension), event taxonomy, narrative governors, and LLM memory compression for story generation.
+
 ### Unified Toolkits
   * RLCard: A Toolkit for Reinforcement Learning in Card Games [[paper](https://arxiv.org/abs/1910.04376)] [[code](https://github.com/datamllab/rlcard)].
   * OpenSpiel: A Framework for Reinforcement Learning in Games [[paper](https://arxiv.org/abs/1908.09453)] [[code](https://github.com/deepmind/open_spiel)].
