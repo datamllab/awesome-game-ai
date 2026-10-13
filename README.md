@@ -62,6 +62,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
   * OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning [[code](https://github.com/wenkesj/holdem)].
   * PyPokerEngine [[code](https://github.com/ishikota/PyPokerEngine)].
   * Deep mind pokerbot for pokerstars and partypoker [[code](https://github.com/dickreuter/Poker)].
+  * openholdem-py: Python port of the OpenHoldem bot engine, runs OpenPPL poker bots on any engine [[code](https://github.com/aipoker-bot/openholdem-py)].
 
   
 ### Dou Dizhu Projects
