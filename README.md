@@ -36,6 +36,8 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
   * [Gomoku](#gomoku-projects)
   * [Chess](#chess-projects)
   * [Chinese Chess](#chinese-chess-projects)
+  * [Hokm](#hokm-projects)
+  * [Dots and Boxes](#dots-and-boxes-projects)
 * [Review and General Papers](#review-and-general-papers)
 * [Research Papers](#research-papers)
   * [Betting Games](#betting-games)
@@ -97,6 +99,12 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Mahjong Projects
 * pymahjong (Japanese Riichi Mahjong) [[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong)].
 * Mortal [[code](https://github.com/Equim-chan/Mortal)].
+
+### Hokm Projects
+* DeepHokm, a Hokm agent using a convolutional action-value network and determinized search [[code](https://github.com/IlyaKhalafi/DeepHokm)].
+
+### Dots and Boxes Projects
+* Alpha Dots & Boxes, an RLlib-based self-play agent with a graph neural network and tree search [[code](https://github.com/IlyaKhalafi/AlphaDotsAndBoxes)].
 
 ## Review and General Papers
 * Deep reinforcement learning from self-play in imperfect-information games, arXiv 2016 [[paper](https://arxiv.org/pdf/1603.01121.pdf)].
